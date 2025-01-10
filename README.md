@@ -21,10 +21,6 @@ Tests check basic operations (get, put) via the API and title check in UI.
 
 ## Run tests
 
-### Launch via graphical IDE interface
-
-If you need to run tests via a graphical interface (IntelliJ IDEA), it is important to select the appropriate **Maven profile to set the base URL**.
-
 ### Launch via Suite
 
 To run tests through XML Suite, use the command:
